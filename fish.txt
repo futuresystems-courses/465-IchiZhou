@@ -1,0 +1,10 @@
+$ cat fish.txt
+cat fish.txt
+
+One fish 
+Two fish
+Red fish
+Blue fish
+
+$ git status
+
