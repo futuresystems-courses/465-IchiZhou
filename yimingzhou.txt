@@ -1,0 +1,20 @@
+git clone 
+This will allow you to make a copy of the remote github repository on 
+your local PC
+
+git add
+Allows you to add files on local copy of the repository
+
+git commit
+This saves the changes you made in the repository
+
+git push 
+This writes the changes on local copy to the remote github origin 
+
+git pull 
+Allows you to replicate/update from remote origin to your local copy of 
+the repository 
+
+remote vs. local repository 
+local repository is a copy of the remote repository on your PC. 
+
